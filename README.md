@@ -1,1 +1,1 @@
-# covid-risk-assessment
+# Covid19-Screening-Tool
